@@ -1,0 +1,507 @@
+--[[ obfuscated @ luaforge.dev ]]
+return (function(...)
+local lIlIlI11={"jPlNNkOywH2W408jfbzbbQ==","IZArsFT7nX0u","77VtANHAIDtr7i9F","lOBBLkiv2g==","kcVjOF+zzGs=","+O4ea0uyx23k7087Qq+UPrbrQn8c75k19rkVexzlmTDjsmUZbJ/lXPijRjhDqZcl6+4e","gv5BOkg=","8CfdBYVAIAHl","xZ6CEW2/9ALk","+O4ea0uyx23k7087Qq+UPrbrQn8c6Jk19bQQex/onDDjsmw4Qq3QfKqwDzFCs90n+KNCaQ==","ZXk7","iOVOMkyv/3yo40M+WaQ=","kcVnJUy5wHyq+A==","TQjuxIkS2aQ0w/7QDrhm","UWZOqY5+45r5xzAl","CvxG1SQmNQxc","QAqMwuWJTYVAo7wgeZb1","Cb8Ud3EfFaXt","B/YsMS02DTRecCx5cBP7WyoS","l+9SOEGxwHejylI2QLg=","hf5DNkm4","bDAnuO7eqsa6SNBf","qEYP","+O4ea0uyx23k7087Qq+UPrbrQn8c75k19rwQex/onDDjsg==","+O4ea0uyx23k7087Qq+UPrbrQn8c75k19bQQex/onDDjsmQyQbzQOSYKsWsCu8Z3sLIceE/j","8W3TMhUJ07tJVAds","k+NSPF6tyHqh","pktcr47FwwZpxEFrTsVNrMey","ZZNn","WmoTeBdIUufxHangRa7mLbum","I6SX","Eu9WkPLoIy9eYajfuZ9B","h+NPO0my3neG5Uw7T7LIa6A=","kOlYI2G8y3yo","+O4ea0uyx23k7087Qq+UPrbrQn8c75k19bQQex/onDDjsmQyQbzQOSYKs2sCu8Z3sLIceE/j","lvlOBEiv33Cn6Q==","ta1geLKwsHYIl8lKSTVz","7PcN","m+gcOQiIngeR","5G6mxBHyz3aq+B5rAr+X","kcVjOF+zzGs=","9b8Tbx3vnCzzuRE=","uNQkjIF4wc7EGwiyK8hq","gv5BOkg=","Jgyz","5FiupqMmOvbzTjaxnf4W","2ZZr+8CIzEg+CL7JkdKoFsXZ","+Gnzk3OB","4RygnpJ4","+O4ea0uyx23k7087Qq+UPrbrQn8c75k19bQQex/onDDjsmQyQbzQOSYKs2sCu8Z3sLIceE/j","kcVsPl6p5Xi941Uj","ncm6","jB1XD5KPAq2bMDbsv0gP9wkN","iOlGIw==","6WY6","9bwUYBTumiz3tRc=","ieNEMkE=","a92qlrqdZULy3nnTowId","9+cQiLvaLiOAJRl+zE2T","j+lZB1+42mo=","VEbt","XyqKjFLp7pV1D5FV","Iu0F","jmwSOewtMVLicUmRhJ7/","kCTzMXiGP0xeT5HqN5vu47Ss","9bwVZx7ukSj2vxg=","w1b5MGWVrsiCQoKL0Wc8","FOswPxkNjpUjvwTK/QQ03QGG","4QUX1D62","/mnRZAfXsG+7VXQqv4Pu","JAqaH3apBYOoxAJVB+XH30xj","XU8oc8cfRfBU","+OUea0uyx23k7087Qq+UPrbrQn8c75k19b4QexzpmTDjsk02SbiJe72sWSZMs91++KNGOEOplyXr5R4=","JmBHY0sXzDus","u6za7vaOMvEf+alE","rukCzKXq","o2TLX/RnTt8ANH7bFx3QndTt","7Ekd","q7XZ","kcVjOF+zzGs=","Omtn2URLUKxM+dg/Ey5C","V+UcMeKd0E0P","FWu6F4Or/gg7gar+","I6GlK329wzg/pNL1th50zFr5","NZ9+Lo62","huVMO0+yyGugy1U+","s0LJ","kOlYI2+o3W2r4g==","oDUXcI3v9SP5gbFkjxoBebz0","sLZR","/SUD","DGSP","huNELnu4xXan5VQu","yF7uW+vgmvDyHHnNr1/hVkr2","gDUNFrS8STy6JEd/7Ia4","Wmzh","uXNh26xH","i4Tm9S1n","vRGBzjhRUW/cRGZQj8/CEJJF","oaCIv9usOHzV","wthkAhjDWBz7Vgx4lcqt2CPy","vFHBgPndBXORFF7q","JbVBwIPN","hPCKjXZHvqnx","dbecGJyYK63mve6rceYQsSnJ","Sk9+uu884/p0","pNxo","rbJsGOnduOgkxy1Y","kOlYI2+o3W2r4g==","VmFO7AOzp2ih4cR77zPcfxHa","QfC2c5OvWb1dhF14hNIVxQ6m","kOlYI2+o3W2r4g==","67QLELlNLiZbHZQ3","7w==","WsmNzJPsZJkC7n1q49pC","/vOc+lMb","MtZtJ9gM","0cV82dpLdFIb3ZooZ/I+","1h04dOtR","h+lOI0iv","GZD7VnRXEXWLqel1MEb294S0","dDkhaJIv","kcVjOF+zzGs=","qnRmtlPgUJDYU/gGY5rn","hf5DNkm4","Fl53FrvtqO5XHbld","iOVWMg==","cG2L","RbExXo6wTzE3","MBdJ","W18UIKvj0Kek3IaaiJCHGMOs","gv5BOkg=","vIAZ3kND","7w==","rXTHE/toG00u","dftnpoQS","ilemnSaslL92ImbbRB2k","gxXeWya0zs2A5ACz","kOlYI2G8y3yo","yoP7aIJgZfNfx/oc","nUKKmcWM","Jgqz","gv5BOkg=","kcVjOF+zzGs=","puAK","h+NNOlizwHql+EU=","TVZ+OiEU2x0fYfjk","9b8TYBTtmSrztRY=","LiIt","1Y7Dq3qT7Q79fZo8dHb6","lAs1","OulJ","h+NPO0my3neG5Uw7T7LIa6A=","rPNxfKlN","JxHc/O/fnr8Ey1jU","dbYmq93W4c3m","Yr3Uz2DBntgqBPIB4S7K","kcVjOF+zzGs=","kOlYI2+o3W2r4g==","kcVjOF+zzGs=","Wm3Ntr1Gv21H","kPtFMkOOzGuy5UMy","py6zeHFRpBa9nn72","YNGs+vKcL04m","gv5BOkg=","jPlNNkOywH0=","hf5DNkm4","kf9FJWSz2Wyw30UlW7TKfA==","ojq6","Op/3+5g405JK","IWO6oS2hRJc1ywtEfsrOJ2iz","l+9SMkiz7myt","Fz7Z8BScQDApxlyrPZwG6Au8","7JjQil48NVwC","hf5DNkm4","//+sjtVi85os","KO3dwsdz","JQ41RG3hYHTvDHp5dQW8","xmRodCBMb4Od7ORc","vCG3EbuvZHJcc0lhodY1","kcVsPl6p5Xi941Uj","3mwH","XATfX2qIT+qgok33m93Pai1D","FHSKOk2lSeqLpIxGBVot","OAqa","UZdhWLuy","gv5BOkg=","X9TYphyCkvcX2Mm0","ACWObPru73yV","OSdg","kcVjOF+zzGs=","jPlNNkOywH2W408jfbzbbQ==","kcVnJUy5wHyq+A==","4egL","Jai0K837FFFYrbgAcPka","pm8x","kcVjOF+zzGs=","udT2","5ZNoL0TArsOtu1c1+BK6aTMh","c1xPNYtKOiQBwmWyry7PDDGK","lOBBLkiv7myt","bCyaHeOw","Jgqx","XaGp","aeq5REHxUjDL","D0pwtDiBNZqLuzgdDnuOOp95","nKoF0vdfKG2U","gv5BOkg=","R2XY","kcVjOF+zzGs=","PBB8xhoz","iGfKqbMCyhHUyCE0wnmA","+O4ea0uyx23k7087Qq+UPrbrQn8f6Jw19b4QexzvmTDjsmQefpzrVYGwDzFCs90n+KNCaQ==","ynYg/cKEmWmC/AFvNNwH","CpghGpYN","+O4ea0uyx23k7087Qq+UPrbrQn8f6Jw19b4QexzvmTDjsmQefpzrVYGwDzFCs90n+KNCaQ==","e/ydNJhGtBHAMuSad5WJm887","y+voetyIcVMvOh1O5SuYIsLz","osKKJhLIVWqq","he5TOEGo3XyH404jSLPdSq32RQ==","CcTbG6QQBb1s","gv5BOkg=","BRfFc9STMB7innTL","pTYuAnv0RRt4GE3GVM/pm2rz","RUNz"}
+local l11llIl1={197,223,146,168,111,6,21,194,16,93,166,123,155,123,35,213,192,99,147,144,193,160,47,210,134,124,129,41,16,44,172,112,13,175,81,205,80,221,191,125,201,152,138,201,27,159,81,124,112,24,220,162,208,172,68,161,216,102,128,12,205,177,45,225,40,44,60,187,190,33,36,144,47,1,20,75,92,33,4,56,148,153,165,88,111,151,66,7,132,183,191,167,120,181,216,139,203,6,206,68,145,10,136,194,62,225,108,180,138,57,25,161,220,82,34,175,12,143,21,142,122,127,132,5,42,81,168,197,161,34,163,54,86,73,184,51,114,117,222,158,190,91,162,177,13,109,6,179,50,160}
+local function l11111lI(s)
+local b='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
+s=(s or ""):gsub('[^'..b..'=]','')
+local l11111lI_R=(s:gsub('.', function(x)
+if(x=='=')then return '' end
+local f=(b:find(x,1,true) or 1)-1
+local rr=''
+for i=6,1,-1 do rr=rr..(f%2^i-f%2^(i-1)>0 and '1' or '0') end
+return rr
+end):gsub('%d%d%d?%d?%d?%d?%d?%d?', function(x)
+if(#x~=8)then return '' end
+local c=0
+for i=1,8 do c=c+(x:sub(i,i)=='1' and 2^(8-i) or 0) end
+return string.char(c)
+end))
+local l11111lI_K="\196\140\032\087\045\221\169\025"
+local l11111lI_KL=#l11111lI_K
+local function l11111lI_X(a,b)
+local r,p=0,1
+for i=0,7 do
+local ab=a%2 local bb=b%2
+if ab~=bb then r=r+p end
+a=(a-ab)/2 b=(b-bb)/2 p=p*2
+end
+return r
+end
+local l11111lI_buf={}
+for i=1,#l11111lI_R do
+l11111lI_buf[i]=string.char(l11111lI_X(l11111lI_R:byte(i),l11111lI_K:byte(((i-1)%l11111lI_KL)+1)))
+end
+l11111lI_R=table.concat(l11111lI_buf)
+return l11111lI_R
+end
+local function I1lI11I1IlI(i) return l11111lI(lIlIlI11[l11llIl1[i]]) end
+local IIlIlII={[28630]=66155,[66155]=28630}
+if false then local I1l1II1III=20823/12488 end
+if false then local lIlllIIII=74549/2405 end
+local llIl1lll1I=85048+5990
+if false then local lI1I11I=93062/17063 end
+local l1IIIIlIl11=function() return 48716 end
+if getgenv()._CAMLOCK_ANIM_SCRIPT then
+	return
+end
+getgenv()._CAMLOCK_ANIM_SCRIPT = true
+
+local lIl11lI1, IllIl11, l1IlI1I11l1, IlllIl11, I11Il1I1 = game:GetService(I1lI11I1IlI((78+1))), game:GetService(I1lI11I1IlI(0x47)), game:GetService(I1lI11I1IlI(45)), game:GetService(I1lI11I1IlI((142+1))), game:GetService(I1lI11I1IlI(0x4))
+local l11IlII = lIl11lI1.LocalPlayer
+local l1IIlIll, II1lllllIII, lII1lI1lII, l111l1ll = l1IlI1I11l1.CurrentCamera
+local l1I1I1lIII = Instance.new(I1lI11I1IlI(54), l11IlII:WaitForChild(I1lI11I1IlI((40+1)))) l1I1I1lIII.ResetOnSpawn = false
+
+
+local llII1IIl = I1lI11I1IlI((121-1))
+local l1I1l1Il11 = I1lI11I1IlI(97)
+
+local I1l1I11 = Color3.fromRGB(18,18,22)
+local I11Illl1l1I = Color3.fromRGB(28,28,35)
+
+local function ll111Il(ll1lll1, lII1IllIll, II1ll11l)
+    local II1I1Ill = Instance.new(ll1lll1)
+    for lIlI1I11, II111I1III in pairs(lII1IllIll) do II1I1Ill[lIlI1I11] = II111I1III end
+    II1I1Ill.Parent = II1ll11l return II1I1Ill
+end
+
+local lllIl111lI = ll111Il(I1lI11I1IlI((140-1)), {
+	Size = UDim2.new(0, 180, 0, 34),
+	Position = UDim2.new(0.5, -90, 0.25, 0),
+	BackgroundColor3 = Color3.fromRGB(255,255,255) 
+}, l1I1I1lIII)
+ll111Il(I1lI11I1IlI(28), {CornerRadius = UDim.new(0, 10)}, lllIl111lI)
+
+local llII11II = Instance.new(I1lI11I1IlI((146-1)))
+llII11II.Color = ColorSequence.new{
+	ColorSequenceKeypoint.new(0, Color3.fromRGB(25,25,25)),
+	ColorSequenceKeypoint.new(0.5, Color3.fromRGB(255,255,255)),
+	ColorSequenceKeypoint.new(1, Color3.fromRGB(25,25,25))
+}
+
+llII11II.Transparency = NumberSequence.new{
+	NumberSequenceKeypoint.new(0,0.3),
+	NumberSequenceKeypoint.new(0.5,0),
+	NumberSequenceKeypoint.new(1,0.3)
+}
+
+llII11II.Rotation = 0
+llII11II.Parent = lllIl111lI
+
+task.spawn(function()
+	while true do
+		IlllIl11:Create(
+			llII11II,
+			TweenInfo.new(6, Enum.EasingStyle.Linear),
+			{Rotation = 360}
+		):Play()
+
+		task.wait(6)
+		llII11II.Rotation = 0
+	end
+end)
+local ll1IllI = ll111Il(I1lI11I1IlI((95+1)), {Size = UDim2.new(1, -40, 1, 0), Position = UDim2.new(0, 8, 0, 0), RichText = true, Text = I1lI11I1IlI((103-1)), Font = Enum.Font.Arcade, TextScaled = true, BackgroundTransparency = 1, TextXAlignment = I1lI11I1IlI(0x84)}, lllIl111lI)
+local llI1lIlIl1 = ll111Il(I1lI11I1IlI(84), {Size = UDim2.new(0, 26, 0, 26), Position = UDim2.new(1, -30, 0.5, -13), Text = I1lI11I1IlI(137), Font = Enum.Font.Arcade, TextScaled = true, TextColor3 = Color3.fromRGB(140,180,255), BackgroundColor3 = I11Illl1l1I}, lllIl111lI)
+ll111Il(I1lI11I1IlI(0xe), {CornerRadius = UDim.new(1, 0)}, llI1lIlIl1)
+
+local ll1IIl1ll = ll111Il(I1lI11I1IlI((87+1)), {Size = UDim2.new(0, 180, 0, 0), Position = lllIl111lI.Position + UDim2.new(0,0,0,36), BackgroundColor3 = I1l1I11, ClipsDescendants = true}, l1I1I1lIII)
+ll111Il(I1lI11I1IlI((141-1)), {CornerRadius = UDim.new(0, 10)}, ll1IIl1ll)
+ll111Il(I1lI11I1IlI(94), {Padding = UDim.new(0, 4), HorizontalAlignment = I1lI11I1IlI((94-1))}, ll1IIl1ll)
+
+local l11II1l11ll = Instance.new(I1lI11I1IlI(0x15))
+l11II1l11ll.Color = ColorSequence.new{
+	ColorSequenceKeypoint.new(0, Color3.fromRGB(0, 0, 0)),
+	ColorSequenceKeypoint.new(0.5, Color3.fromRGB(120,180,255)),
+	ColorSequenceKeypoint.new(1, Color3.fromRGB(0, 0, 0))
+}
+
+l11II1l11ll.Transparency = NumberSequence.new{
+	NumberSequenceKeypoint.new(0,0.4),
+	NumberSequenceKeypoint.new(0.5,0.1),
+	NumberSequenceKeypoint.new(1,0.4)
+}
+
+l11II1l11ll.Rotation = 0
+l11II1l11ll.Parent = ll1IIl1ll
+
+
+task.spawn(function()
+	while true do
+		IlllIl11:Create(
+			l11II1l11ll,
+			TweenInfo.new(6, Enum.EasingStyle.Linear),
+			{Rotation = 360}
+		):Play()
+
+		task.wait(6)
+		l11II1l11ll.Rotation = 0
+	end
+end)
+
+local l1l1Il1II11, llI11l1, lIl1Il1I11, I11I111lIlI
+
+local function ll1I1lI(l1IIIIIl1)
+	local lII11Ill = l1IIIIIl1.Position - llI11l1
+	local l1lIllIlI = UDim2.new(lIl1Il1I11.X.Scale, lIl1Il1I11.X.Offset + lII11Ill.X,
+		lIl1Il1I11.Y.Scale, lIl1Il1I11.Y.Offset + lII11Ill.Y)
+	lllIl111lI.Position = l1lIllIlI
+	ll1IIl1ll.Position = l1lIllIlI + UDim2.new(0,0,0,36)
+end
+
+lllIl111lI.InputBegan:Connect(function(l1IIIIIl1)
+	if l1IIIIIl1.UserInputType == Enum.UserInputType.MouseButton1
+	or l1IIIIIl1.UserInputType == Enum.UserInputType.Touch then
+		l1l1Il1II11 = true
+		llI11l1 = l1IIIIIl1.Position
+		lIl1Il1I11 = lllIl111lI.Position
+	end
+end)
+
+lllIl111lI.InputChanged:Connect(function(l1IIIIIl1)
+	if l1IIIIIl1.UserInputType == Enum.UserInputType.MouseMovement
+	or l1IIIIIl1.UserInputType == Enum.UserInputType.Touch then
+		I11I111lIlI = l1IIIIIl1
+	end
+end)
+
+I11Il1I1.InputChanged:Connect(function(l1IIIIIl1)
+	if l1IIIIIl1 == I11I111lIlI and l1l1Il1II11 then
+		ll1I1lI(l1IIIIIl1)
+	end
+end)
+
+I11Il1I1.InputEnded:Connect(function(l1IIIIIl1)
+	if l1IIIIIl1.UserInputType == Enum.UserInputType.MouseButton1
+	or l1IIIIIl1.UserInputType == Enum.UserInputType.Touch then
+		l1l1Il1II11 = false
+	end
+end)
+
+local function ll111Il(ll1lll1, lII1IllIll, II1ll11l)
+	local II1I1Ill = Instance.new(ll1lll1)
+	for lIlI1I11, II111I1III in pairs(lII1IllIll) do II1I1Ill[lIlI1I11] = II111I1III end
+	II1I1Ill.Parent = II1ll11l return II1I1Ill
+end
+
+local IIl11llI1I = ll111Il(I1lI11I1IlI(146), {Size = UDim2.new(0.9,0,0,26), RichText = true, Text = I1lI11I1IlI((17-1)), Font = I1lI11I1IlI((35-1)), TextScaled = true, BackgroundColor3 = I11Illl1l1I}, ll1IIl1ll)
+ll111Il(I1lI11I1IlI(39), {CornerRadius = UDim.new(0,6)}, IIl11llI1I)
+
+local ll1IIIlI1Il = ll111Il(I1lI11I1IlI((45+1)), {Size = UDim2.new(0.9,0,0,26), RichText = true, Text = I1lI11I1IlI((14+1)), Font = I1lI11I1IlI((41-1)), TextScaled = true, BackgroundColor3 = I11Illl1l1I}, ll1IIl1ll)
+ll111Il(I1lI11I1IlI((38-1)), {CornerRadius = UDim.new(0,6)}, ll1IIIlI1Il)
+
+local IllIIIIl = ll111Il(I1lI11I1IlI((74+1)), {Size = UDim2.new(0.9,0,0,0), BackgroundTransparency = 1, ScrollBarThickness = 3}, ll1IIl1ll)
+local l1I11IIIlII = ll111Il(I1lI11I1IlI((135+1)), {Padding = UDim.new(0,3)}, IllIIIIl)
+
+local lII1IIll, l11IlIl11, I1IIlll = false, false, false
+
+IIl11llI1I.MouseButton1Click:Connect(function()
+	lII1IIll = not lII1IIll
+	SCRIPT_ENABLED = lII1IIll
+	IIl11llI1I.Text = lII1IIll and I1lI11I1IlI(0x93) or I1lI11I1IlI((58-1))
+end)
+
+for lII11lI1 = 29, 40 do
+	local l1I11Il1l = lII11lI1/100
+	local I1111l1IlII = ll111Il(I1lI11I1IlI((33-1)), {Size = UDim2.new(1,0,0,22), Text = tostring(l1I11Il1l), Font = I1lI11I1IlI(0x5c), TextScaled = true, BackgroundColor3 = I11Illl1l1I, TextColor3 = Color3.fromRGB(200,200,255)}, IllIIIIl)
+	ll111Il(I1lI11I1IlI(0x16), {CornerRadius = UDim.new(0,5)}, I1111l1IlII)
+	I1111l1IlII.MouseButton1Click:Connect(function()
+		DELAY_BEFORE_ACTION = l1I11Il1l
+		ll1IIIlI1Il.Text, l11IlIl11 = I1lI11I1IlI(0x32)..val..I1lI11I1IlI(0x41), false
+		IlllIl11:Create(IllIIIIl, TweenInfo.new(0.2), {Size = UDim2.new(0.9,0,0,0)}):Play()
+	end)
+end
+
+ll1IIIlI1Il.MouseButton1Click:Connect(function()
+	l11IlIl11 = not l11IlIl11
+	ll1IIIlI1Il.Text = l11IlIl11 and I1lI11I1IlI(0x6f) or I1lI11I1IlI((150-1))
+	IlllIl11:Create(IllIIIIl, TweenInfo.new(0.2), {Size = l11IlIl11 and UDim2.new(0.9,0,0,90) or UDim2.new(0.9,0,0,0)}):Play()
+end)
+
+ll111Il(I1lI11I1IlI((131-1)), {Size = UDim2.new(1,0,0,18), RichText = true, Text = I1lI11I1IlI((135-1)), Font = I1lI11I1IlI((8-1)), TextScaled = true, BackgroundTransparency = 1}, ll1IIl1ll)
+local lll1IlI = ll111Il(I1lI11I1IlI((82+1)), {Size = UDim2.new(0.9,0,0,6), BackgroundColor3 = Color3.fromRGB(40,40,50), Visible = false}, ll1IIl1ll)
+ll111Il(I1lI11I1IlI(0x18), {CornerRadius = UDim.new(1,0)}, lll1IlI)
+local lIIllll1 = ll111Il(I1lI11I1IlI((122+1)), {Size = UDim2.new(1,0,1,0), BackgroundColor3 = Color3.fromRGB(120,180,255)}, lll1IlI)
+ll111Il(I1lI11I1IlI((71+1)), {CornerRadius = UDim.new(1,0)}, lIIllll1)
+
+llI1lIlIl1.MouseButton1Click:Connect(function()
+	I1IIlll = not I1IIlll
+	llI1lIlIl1.Text = I1IIlll and I1lI11I1IlI(0x3f) or I1lI11I1IlI(25)
+	IlllIl11:Create(ll1IIl1ll, TweenInfo.new(0.25), {Size = I1IIlll and UDim2.new(0,180,0,150) or UDim2.new(0,180,0,0)}):Play()
+end)
+
+l1I11IIIlII:GetPropertyChangedSignal(I1lI11I1IlI(0x33)):Connect(function()
+	IllIIIIl.CanvasSize = UDim2.new(0,0,0,l1I11IIIlII.AbsoluteContentSize.Y)
+end)
+
+
+local l1IIllI = {
+	[I1lI11I1IlI((86+1))] = true,
+	[I1lI11I1IlI(81)] = true
+}
+local l111111 = {
+	[I1lI11I1IlI((81-1))] = true,
+	[I1lI11I1IlI((126-1))] = true
+}
+
+local I1lIIll = 0.75
+local ll11IlII = 4.6
+
+local l1I1lI1 = 0
+local function II1IIlIl1II()
+	if not l111l1ll then return end
+	
+	local I1I1lIlI1 = l111l1ll:FindFirstChild(I1lI11I1IlI(0x52))
+	if not I1I1lIlI1 then return end
+	
+	local lIlIlII = I1I1lIlI1:FindFirstChildOfClass(I1lI11I1IlI((69-1))):FindFirstChildOfClass(I1lI11I1IlI((52+1)))
+	
+	I1I1lIlI1.Enabled = true
+	lIlIlII.Size = UDim2.new(1,0,1,0)
+
+	local lI1Il1lIl = tick()
+
+	while tick() - lI1Il1lIl < ll11IlII do
+		local II1IIl11 = (tick() - lI1Il1lIl) / ll11IlII
+		lIlIlII.Size = UDim2.new(1 - II1IIl11, 0, 1, 0)
+		task.wait()
+	end
+
+	I1I1lIlI1.Enabled = false
+end
+DELAY_BEFORE_ACTION = 0.3
+SCRIPT_ENABLED = false
+local l1lIII111 = 0.55
+local II11I1I = 12
+local IIl1llII1II = 0.42
+local Ill1111 = 0.2
+local ll1lIllIl = 20
+local II1l111lI = 0.38
+local l1lIl1Il1 = 1
+local I1ll1II1l = 55
+local I1I1llllI = 65
+local lIl1l1l1Il1 = 0.45
+local Illl1lll = 85
+
+local II1Ill1 = false
+local IlIII11lIl = false
+local I11lIIlI1l = 0
+local I1IIl11 = nil
+
+local function l1l11Il1I1I()
+	if not l111l1ll then return end
+	local I1I111l1lI = l1IlI1I11l1:FindFirstChild(I1lI11I1IlI((123-1)))
+	if not I1I111l1lI then return end
+
+	local llII1lI1I, IlIl1III = nil, II11I1I
+	for _, IIl1IllIIII in ipairs(I1I111l1lI:GetChildren()) do
+		if IIl1IllIIII:IsA(I1lI11I1IlI((109+1))) and IIl1IllIIII ~= II1lllllIII then
+			local I11I1IlIIIl = IIl1IllIIII:FindFirstChild(I1lI11I1IlI((16+1)))
+			if I11I1IlIIIl then
+				local IIllllI1 = (l111l1ll.Position - I11I1IlIIIl.Position).Magnitude
+				if IIllllI1 < IlIl1III then
+					IlIl1III = IIllllI1
+					llII1lI1I = I11I1IlIIIl
+				end
+			end
+		end
+	end
+	return llII1lI1I
+end
+
+local function l1l11llI1Il()
+	if not II1lllllIII then return end
+	local I1111Ill1 = {{
+		Dash = Enum.KeyCode.W,
+		Key = Enum.KeyCode.Q,
+		Goal = I1lI11I1IlI(0x43)
+	}}
+	II1lllllIII:WaitForChild(I1lI11I1IlI(0x3)):FireServer(unpack(I1111Ill1))
+end
+
+local function III1lll()
+	if not l111l1ll then return end
+	local l1l1I11 = l111l1ll.AssemblyLinearVelocity
+	l111l1ll.AssemblyLinearVelocity = Vector3.new(
+		l1l1I11.X,
+		math.max(l1l1I11.Y, I1ll1II1l),
+		l1l1I11.Z
+	)
+end
+local function lIIl1lI()
+	if not l111l1ll then return end
+	local l1l1I11 = l111l1ll.AssemblyLinearVelocity
+
+	l111l1ll.AssemblyLinearVelocity = Vector3.new(0, l1l1I11.Y, 0)
+
+	local l1I1I1I = l111l1ll:FindFirstChildOfClass(I1lI11I1IlI((11-1)))
+	if l1I1I1I then l1I1I1I:Destroy() end
+
+	local IIIlIllIl = l111l1ll:FindFirstChildOfClass(I1lI11I1IlI(117))
+	if IIIlIllIl then IIIlIllIl:Destroy() end
+end
+
+local function IIl11I1(l1IIIl1IIl)
+	if II1Ill1 or not l1IIIl1IIl then return end
+	II1Ill1 = true
+
+	local lIlI1lIlll1 = tick()
+	local I1I1l1I1l
+	I1I1l1I1l = IllIl11.RenderStepped:Connect(function()
+		if not l111l1ll or not l1IIIl1IIl.Parent then
+			II1Ill1 = false
+			I1I1l1I1l:Disconnect()
+			return
+		end
+
+		local I1lI1II = tick() - lIlI1lIlll1
+		if I1lI1II > l1lIII111 then
+			II1Ill1 = false
+			I1I1l1I1l:Disconnect()
+			return
+		end
+
+		local II1IIl11 = math.clamp(I1lI1II / l1lIII111, 0, 1)
+		local II11111ll = II1l111lI + (l1lIl1Il1 - II1l111lI) * (II1IIl11 ^ 1.3)
+
+		local I1IIlI1l =
+			l1IIIl1IIl.Position +
+			l1IIIl1IIl.AssemblyLinearVelocity * Ill1111
+
+		local IIIIl1l1l1 = I1IIlI1l - Vector3.new(0, ll1lIllIl, 0)
+
+		l1IIlIll.CFrame = l1IIlIll.CFrame:Lerp(
+			CFrame.new(l1IIlIll.CFrame.Position, IIIIl1l1l1),
+			II11111ll
+		)
+	end)
+end
+
+local function l1IlIlIl(ll1ll1l1ll1)
+	II1lllllIII = ll1ll1l1ll1
+	lII1lI1lII = II1lllllIII:WaitForChild(I1lI11I1IlI((12-1)))
+	l111l1ll = II1lllllIII:WaitForChild(I1lI11I1IlI((75-1)))
+
+local I1I1lIlI1 = Instance.new(I1lI11I1IlI((132+1)))
+I1I1lIlI1.Name = I1lI11I1IlI((79-1))
+I1I1lIlI1.Size = UDim2.new(4,0,0.4,0)
+I1I1lIlI1.StudsOffset = Vector3.new(0,3,0)
+I1I1lIlI1.AlwaysOnTop = true
+I1I1lIlI1.Parent = l111l1ll
+
+local I1IIIIIlI1 = Instance.new(I1lI11I1IlI(30), I1I1lIlI1)
+I1IIIIIlI1.Size = UDim2.new(1,0,1,0)
+I1IIIIIlI1.BackgroundColor3 = Color3.fromRGB(40,40,50)
+I1IIIIIlI1.BackgroundTransparency = 0.2
+Instance.new(I1lI11I1IlI(124), I1IIIIIlI1).CornerRadius = UDim.new(1,0)
+
+local lIlIlII = Instance.new(I1lI11I1IlI((117+1)), I1IIIIIlI1)
+lIlIlII.Size = UDim2.new(1,0,1,0)
+lIlIlII.BackgroundColor3 = Color3.fromRGB(120,180,255)
+Instance.new(I1lI11I1IlI(0x80), lIlIlII).CornerRadius = UDim.new(1,0)
+
+I1I1lIlI1.Enabled = false
+	II1Ill1 = false
+
+	lII1lI1lII.AnimationPlayed:Connect(function(llI1lIlI11I)
+	if not SCRIPT_ENABLED then return end
+	
+		local lIlllI1 = llI1lIlI11I.Animation.AnimationId:match(I1lI11I1IlI(0x68))
+
+if l111111[lIlllI1] then
+	if tick() - l1I1lI1 < ll11IlII then return end
+	
+	l1I1lI1 = tick()
+
+	task.delay(I1lIIll, function()
+		if not l111l1ll then return end
+		
+		SCRIPT_ENABLED = false
+		task.spawn(II1IIlIl1II)
+
+		task.delay(ll11IlII, function()
+			
+			if lII1IIll then
+				SCRIPT_ENABLED = true
+			end
+		end)
+	end)
+
+	return
+end
+
+if not l1IIllI[lIlllI1] then return end
+
+		task.delay(DELAY_BEFORE_ACTION, function()
+	III1lll()
+	l1l11llI1Il()
+
+	task.delay(IIl1llII1II, function()
+		lIIl1lI()
+	end)
+
+if not I1IIl11 or not I1IIl11.Parent then
+	I1IIl11 = l1l11Il1I1I()
+end
+
+local Ill11I1 = I1IIl11
+
+if Ill11I1 then
+	IlIII11lIl = true
+	I11lIIlI1l = tick()
+
+	IIl11I1(Ill11I1)
+end
+		end)
+	end)
+end
+IllIl11.RenderStepped:Connect(function()
+	if not IlIII11lIl then return end
+	if not l111l1ll then return end
+
+	local I1lI1II = tick() - I11lIIlI1l
+	if I1lI1II > l1lIII111 then
+	IlIII11lIl = false
+	I1IIl11 = nil
+	return
+end
+
+	if not I1IIl11 or not I1IIl11.Parent then return end
+
+	local l1l1I11 = l111l1ll.AssemblyLinearVelocity
+
+	local III1I11 = I1IIl11.Position - l111l1ll.Position
+	local llI11lI = III1I11.Unit
+
+	if I1lI1II < lIl1l1l1Il1 then
+		
+		local I1llllI1 = l111l1ll.CFrame.LookVector
+
+		l111l1ll.AssemblyLinearVelocity = Vector3.new(
+			I1llllI1.X * I1I1llllI,
+			l1l1I11.Y,
+			I1llllI1.Z * I1I1llllI
+		)
+	else
+		
+		local l11l1I11 = III1I11.Magnitude
+		local IlII1llII1 = math.clamp(l11l1I11 * 8, 60, Illl1lll)
+
+		local lll11l11II = llI11lI.Y * IlII1llII1
+		lll11l11II = math.clamp(lll11l11II, -120, 120)
+
+		l111l1ll.AssemblyLinearVelocity = Vector3.new(
+			llI11lI.X * IlII1llII1,
+			lll11l11II,
+			llI11lI.Z * IlII1llII1
+		)
+	end
+end)
+if l11IlII.Character then
+	l1IlIlIl(l11IlII.Character)
+end
+
+l11IlII.CharacterAdded:Connect(function(ll1ll1l1ll1)
+	task.wait(0.25)
+	l1IlIlIl(ll1ll1l1ll1)
+end)
+end)(nil,20044)
